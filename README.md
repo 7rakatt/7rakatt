@@ -1,6 +1,6 @@
 ## Hello! I'm mahmoud reda
 <div>
-  <img height="180em" src="https://githb-readme-stats.vercel.app/api?username=7rakatt&show_icons=true&theme=merko"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7rakatt&show_icons=true&theme=merko"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7rakatt&layout=compact&theme=merko"/>
 </div>
 
